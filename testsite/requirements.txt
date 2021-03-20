@@ -1,7 +1,7 @@
 Django==2.2.13
 django-countries==6.1.2
 django-localflavor==3.0.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 # We need Python Markdown for django.contrib.markup. markdown2 is not enough.
 Markdown==3.2.2
 python-dateutil==2.8.1
